@@ -1,7 +1,6 @@
-import React from "react"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Calendar, Award, ExternalLink, FileCheck } from "lucide-react"
+import { Calendar, Award, FileCheck } from "lucide-react"
 
 export interface CertificationType {
   id: string
