@@ -6,6 +6,10 @@ Mon portfolio personnel développé avec React, TypeScript et Tailwind CSS.
 
 **[Accéder au portfolio en ligne](https://tp9-react-mon-portfolio.vercel.app)**
 
+
+<img width="1864" height="924" alt="image" src="https://github.com/user-attachments/assets/c6b016ab-6ba2-4242-ba8a-e3c7e4115bf5" />
+
+
 ## 📋 Description
 
 Portfolio présentant mon parcours d'étudiante en Licence Sciences Informatiques et Réseaux à la FST Marrakech, mes projets, formations et certifications.
